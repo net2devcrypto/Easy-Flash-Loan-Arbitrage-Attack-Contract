@@ -37,7 +37,7 @@ N2D_Sample_AAVE_Flash_Loan_SWAP_Attack_Contract.sol
 
     https://docs.aave.com/developers/deployed-contracts/v3-testnet-addresses
 
-5- Deploy the smart contract by providing the PoolAddressProvider address obtain on step 4.
+5- Deploy the smart contract by providing the PoolAddressProvider address obtained on step 4.
 
 6- Send some test USDC tokens obtained in step 1 to the smart contract deployed on step 5.
 
