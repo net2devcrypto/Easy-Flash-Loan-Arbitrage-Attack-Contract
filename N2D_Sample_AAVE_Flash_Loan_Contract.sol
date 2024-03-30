@@ -11,6 +11,9 @@ Twitter: https://twitter.com/cookbook_dev
 Discord: https://discord.gg/cookbookdev
 
 Find this contract on Cookbook: https://www.cookbook.dev/contracts/FlashloanAttacker?utm=code
+
+PLEASE DO NOT DEPLOY ON A MAINNET, ONLY ON A TESTNET
+NET2DEV NOR COOKBOOK.DEV WILL NOT ASSUME ANY RESPONSIBILITY FOR ANY USE, LOSS OF FUNDS OR ANY OTHER ISSUES.
 */
 
 // SPDX-License-Identifier: BUSL-1.1
